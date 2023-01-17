@@ -7,5 +7,5 @@ variable "profile" {
   description = "AWS Profile."
   type = string
 }
-variable "AWS_ACCESS_KEY" {}
-variable "AWS_SECRET_ACCESS_KEY" {}
+variable "aws_access_key" {}
+variable "aws_secret_access_key" {}
